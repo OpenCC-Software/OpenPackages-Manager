@@ -1,3 +1,3 @@
-# OpenCC Software - Program/API name
+# OpenCC Software - OpenPackages Manager
 
-Description of the program/API.
+OpenPackages Manager is a program for defining applications' dependencies on OpenCC Software APIs.
